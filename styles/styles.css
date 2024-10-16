@@ -1,0 +1,8 @@
+body{
+    --body-bg-color: #333;
+    background-color: var(--body-bg-color) !important;
+}
+
+.mw-page-container-inner, .vector-header-container,.vector-header{
+    background-color: var(--body-bg-color) !important;
+}
